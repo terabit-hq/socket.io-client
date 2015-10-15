@@ -12,7 +12,7 @@
   "main": "./lib/index",
   "dependencies": {
     "debug": "2.1.3",
-    "engine.io-client": "automattic/engine.io-client#ea5b5f",
+    "engine.io-client": "bitpay/engine.io-client#ea5b5f",
     "component-bind": "1.0.0",
     "component-emitter": "1.2.0",
     "object-component": "0.0.3",
@@ -30,7 +30,7 @@
     "has-cors": "1.0.3",
     "istanbul": "0.2.1",
     "mocha": "1.16.2",
-    "socket.io": "automattic/socket.io#master",
+    "socket.io": "bitpay/socket.io#master",
     "text-blob-builder": "0.0.1",
     "uglify-js": "2.4.15",
     "zuul": "3.0.0",
@@ -59,7 +59,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Automattic/socket.io-client.git"
+    "url": "https://github.com/bitpay/socket.io-client.git"
   },
   "license": "MIT"
 }
